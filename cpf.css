@@ -22,3 +22,12 @@ body{
     width: 100%;
     box-sizing: border-box;
 }
+
+.form-container button{
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    color: rgb(77, 165, 42);
+    border-radius: 5px;
+    cursor: pointer;
+}
